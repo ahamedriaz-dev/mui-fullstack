@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactJS-springboot-aggrid/static/css/main.c58025ec.chunk.css",
+    "main.js": "/reactJS-springboot-aggrid/static/js/main.26f1f8e6.chunk.js",
+    "main.js.map": "/reactJS-springboot-aggrid/static/js/main.26f1f8e6.chunk.js.map",
+    "runtime-main.js": "/reactJS-springboot-aggrid/static/js/runtime-main.06a409f8.js",
+    "runtime-main.js.map": "/reactJS-springboot-aggrid/static/js/runtime-main.06a409f8.js.map",
+    "static/css/2.588ad167.chunk.css": "/reactJS-springboot-aggrid/static/css/2.588ad167.chunk.css",
+    "static/js/2.e491e162.chunk.js": "/reactJS-springboot-aggrid/static/js/2.e491e162.chunk.js",
+    "static/js/2.e491e162.chunk.js.map": "/reactJS-springboot-aggrid/static/js/2.e491e162.chunk.js.map",
+    "static/js/3.f7c1ffd3.chunk.js": "/reactJS-springboot-aggrid/static/js/3.f7c1ffd3.chunk.js",
+    "static/js/3.f7c1ffd3.chunk.js.map": "/reactJS-springboot-aggrid/static/js/3.f7c1ffd3.chunk.js.map",
+    "index.html": "/reactJS-springboot-aggrid/index.html",
+    "static/css/2.588ad167.chunk.css.map": "/reactJS-springboot-aggrid/static/css/2.588ad167.chunk.css.map",
+    "static/css/main.c58025ec.chunk.css.map": "/reactJS-springboot-aggrid/static/css/main.c58025ec.chunk.css.map",
+    "static/js/2.e491e162.chunk.js.LICENSE.txt": "/reactJS-springboot-aggrid/static/js/2.e491e162.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06a409f8.js",
+    "static/css/2.588ad167.chunk.css",
+    "static/js/2.e491e162.chunk.js",
+    "static/css/main.c58025ec.chunk.css",
+    "static/js/main.26f1f8e6.chunk.js"
+  ]
+}
